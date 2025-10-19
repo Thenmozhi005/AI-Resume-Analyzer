@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+spacy
+pdfplumber
+PyPDF2
+language-tool-python
+textstat
+reportlab
